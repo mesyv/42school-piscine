@@ -1,0 +1,5 @@
+Credentials cache: API:E9F7C5A2-6CBE-4E1F-9936-42F5C2B02B6A
+        Principal: ksmolag@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  7 15:28:28 2021  Sep  8 01:28:23 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
